@@ -47,3 +47,8 @@ header .highlight, header .current a{
   color:#e8491d;
   font-weight:bold;
 }
+
+h1{
+text-align: right;
+  color:#FF0000;  
+}
