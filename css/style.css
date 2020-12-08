@@ -91,7 +91,6 @@ head a:hover{
 
 #newletter form{
   float:right;
-  margin-top:15px;
 }
 
 #newsletter input[type="email"]{
