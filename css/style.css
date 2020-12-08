@@ -78,3 +78,18 @@ head a:hover{
   font-size:55px;
   margin-bottom:10px;
 }
+
+#newsletter h1{
+  float:left;
+}
+
+#newletter form{
+  float:right;
+  margin-top:15px;
+}
+
+#newsletter input[type="email"]{
+  padding:4px;
+  height:25px;
+  width:250px;
+}
