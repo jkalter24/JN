@@ -65,9 +65,10 @@ head a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
+  min-width: 1000px;
   background:url('../img/5568.jpg') no-repeat 0 -400px;
   text-align: center;
   color: red;
-  font-style: bold;
+  font-style: oblique;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
