@@ -62,11 +62,6 @@ head a:hover{
 
 }
 
-head s:hover {
-  color:red;
-  font-weight: bold;
-}
-
 /* Showcase */
 #showcase{
   min-height:400px;
