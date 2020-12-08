@@ -74,6 +74,6 @@ head s:hover {
   background:url('../img/5568.jpg') no-repeat 0 -400px;
   text-align: center;
   color: red;
-  font-style: oblique;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+font-family: 'Courier New', Courier, monospace;
 }
