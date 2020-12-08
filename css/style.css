@@ -79,6 +79,12 @@ head a:hover{
   margin-bottom:10px;
 }
 
+#newsletter{
+  padding:15px;
+  color:#ffffffff;
+  background:#3a3939;
+}
+
 #newsletter h1{
   float:left;
 }
