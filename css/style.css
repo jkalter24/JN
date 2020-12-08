@@ -87,7 +87,7 @@ head a:hover{
   font-size:55px;
   margin-bottom:10px;
 }
-
+/* Newsletter */
 #newsletter{
   padding:15px;
   color:#ffffffff;
@@ -100,6 +100,7 @@ head a:hover{
 
 form{
   float:right;
+  margin-top:15px;
 }
 
 #newsletter input[type="email"]{
@@ -107,3 +108,14 @@ form{
   height:25px;
   width:250px;
 }
+
+/* Boxes */
+#boxes{
+  margin-top:20px;
+}
+
+#boxes .box{
+  float:left;
+  width:30%;
+}
+
