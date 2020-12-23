@@ -83,8 +83,8 @@ head a:hover{
   display: block;
   width: 0;
   height: 2px;
-  background: #3bbbe6;
-  text-decoration: underline;
+  background: #ffffff;
+  text-decoration: u;
   font-weight: bold;
   transition: width .3s;
 }
